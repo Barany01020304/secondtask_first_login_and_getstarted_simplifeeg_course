@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="homecolor">#111111</color>
+    <color name="hintcolor">#626262</color>
+    <color name="edittextbackground">#1e1e1e</color>
+    <color name="forgetpasswodcolor">#4c4874</color>
+</resources>
